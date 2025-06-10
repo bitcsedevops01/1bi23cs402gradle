@@ -16,5 +16,5 @@ steps:
 - script: gradle build
   displayName: 'Building gradle'
 
-- script: gradle build
+- script: gradle run
   displayName: 'Building gradle'
